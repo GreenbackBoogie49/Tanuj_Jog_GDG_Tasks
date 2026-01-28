@@ -51,18 +51,21 @@ Forecasted prices for future days
 Confidence intervals around predictions
 
 
-Requirements
+Task 2:- Financial Chatbot using RAGs
 
-This notebook runs on Google Colab. Required libraries include:
+This Colab Notebook represents my attempt to make a financially educated chatbot which:-
 
-pandas
+1. Identifies ticker based on user query
+2. Uses yahoo finance to download dataframe of last two years stock prices
+3. Fetches the articles from google news and converts them into embeddings 
+4. Tries to find articles relating to query and answers questions.
 
-numpy
+Model used is Google Gemini 2.5 which I was trying to get to extract ticker as well, which would download a dataframe of that stock.
 
-matplotlib
+There are a few drawbacks to the model which I haven't fixed yet (but intend to soon)
 
-statsmodels
-
-yfinance 
+1. Unless exact dates are typed, it gives dates between 2022 to 2024
+2. It is not a chatbot in the traditional sense because the running of the program is fully dependent on the user's query and to get answer to a new query you need to run all the cells again
+3. It is having trouble processing the two year dataframe for more accurate results 
 
 
