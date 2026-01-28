@@ -8,11 +8,11 @@ This project implements time-series forecasting of stock prices using the ARIMA 
 Overview:
 Financial time series are noisy and non-stationary. This notebook focuses on:
 
-Converting stock prices into log returns (to make it stationary)
-Testing and enforcing stationarity (ADF - import adfuller)
-Fitting an ARIMA model to historical data
-Generating future price forecasts for 7 days
-Interpreting confidence intervals and volatility behavior
+1.Converting stock prices into log returns (to make it stationary)
+2.Testing and enforcing stationarity (ADF - import adfuller)
+3.Fitting an ARIMA model to historical data
+4.Generating future price forecasts for 7 days
+5.Showing confidence intervals
 
 How It Works
 
