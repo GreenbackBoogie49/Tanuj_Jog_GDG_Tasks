@@ -3,6 +3,8 @@ My solutions for the GDG ML domain (AI-Driven Stock Market Intelligence) problem
 
                                                                                     TASK 1: STOCK MARKET FORECASTING USING ARIMA
 
+https://colab.research.google.com/drive/1uKs__eMVKf3ChJZgnfchQl7Dz0UNjg0i?usp=sharing
+
 This project implements time-series forecasting of stock prices using the ARIMA (AutoRegressive Integrated Moving Average) model. The notebook demonstrates how historical stock data can be analyzed, modeled, and used to generate short-term forecasts along with uncertainty estimates.
 
 Overview:
@@ -48,11 +50,12 @@ Confidence bands for uncertainty estimation
 
 Historical stock price plot
 Forecasted prices for future days
-Confidence intervals around preds 
-ictions
+Confidence intervals around predictions
 
 
                                                                                     TASK 2:- FINANCIAL CHATBOT USING RAGs
+                                                                                    
+https://colab.research.google.com/drive/1JfxOFr5k_J5sc7u7kca7WNV6n19k2u4b?usp=sharing
 
 This Colab Notebook represents my attempt to make a financially educated chatbot which:-
 
