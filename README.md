@@ -1,7 +1,7 @@
 # Tanuj_Jog_GDG_Tasks
 My solutions for the GDG ML domain (AI-Driven Stock Market Intelligence) problems 1 and 2
 
-Stock Market Forecasting Using ARIMA
+                                                                                    TASK 1: STOCK MARKET FORECASTING USING ARIMA
 
 This project implements time-series forecasting of stock prices using the ARIMA (AutoRegressive Integrated Moving Average) model. The notebook demonstrates how historical stock data can be analyzed, modeled, and used to generate short-term forecasts along with uncertainty estimates.
 
@@ -52,7 +52,7 @@ Confidence intervals around preds
 ictions
 
 
-Task 2:- Financial Chatbot using RAGs
+                                                                                    TASK 2:- FINANCIAL CHATBOT USING RAGs
 
 This Colab Notebook represents my attempt to make a financially educated chatbot which:-
 
