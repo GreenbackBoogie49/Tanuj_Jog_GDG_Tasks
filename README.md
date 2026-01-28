@@ -48,7 +48,8 @@ Confidence bands for uncertainty estimation
 
 Historical stock price plot
 Forecasted prices for future days
-Confidence intervals around predictions
+Confidence intervals around preds 
+ictions
 
 
 Task 2:- Financial Chatbot using RAGs
@@ -66,6 +67,5 @@ There are a few drawbacks to the model which I haven't fixed yet (but intend to 
 
 1. Unless exact dates are typed, it gives dates between 2022 to 2024
 2. It is not a chatbot in the traditional sense because the running of the program is fully dependent on the user's query and to get answer to a new query you need to run all the cells again
-3. It is having trouble processing the two year dataframe for more accurate results 
-
+3. It is having trouble processing the two year dataframe for more accurate result
 
